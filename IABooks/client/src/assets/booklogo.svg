@@ -1,0 +1,31 @@
+<svg id="svg2" viewBox="0 0 64 64" version="1.1">
+            <g id="layer1" transform="translate(0 -988.36)">
+              <g id="g3068">
+                <path
+                  id="rect2818"
+                  d="m2 1005.4h60v43l-60 0.0001 2e-7 -43z"
+                  fill="#6dc5dd"
+                />
+                <path
+                  id="rect2820"
+                  d="m4 1003.4h28v43h-28v-43z"
+                  fill="#e0e0e0"
+                />
+                <path
+                  id="rect2822"
+                  d="m32 1003.4 21-11v43l-21 11v-43z"
+                  fill="#f2f2f2"
+                />
+                <path
+                  id="path2826"
+                  fill="#2ea99c"
+                  d="m36 1048.4h26v-32.647l-9-4.4v24l-21 11 4 2z"
+                />
+                <path
+                  id="path2828"
+                  fill="#2ea99c"
+                  d="m4 1046.4 2 2 26-2h-28z"
+                />
+              </g>
+            </g>
+          </svg>
